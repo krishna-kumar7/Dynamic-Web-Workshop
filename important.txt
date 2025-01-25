@@ -19,3 +19,7 @@ CLASS component
 Props are immutable in React. They are passed from a parent component to a child component. Props are
 
 
+Abhishek Pujara sir- sky 9 it craft compony
+9227608599 
+
+Home Work create form in react validate name , email ,phone, password, Button name mustbe (a&z and A&Z) email(a&z and @ ) password(a&z and A@Z and 0-9 min 8 and max 12 digits , phone(10digits 0-9)) 
